@@ -17,8 +17,7 @@ System.out.println("mapObj: " + mapObj);
 		System.out.println("mapObj get: " + mapObj.get(4));
 		
 		System.out.println("mapObj remove: " + mapObj.remove(3));
-		
-		System.out.println("new mapObj: " + mapObj);
+		System.out.println("new mapObj 1: " + mapObj);
 	}
 
 }
