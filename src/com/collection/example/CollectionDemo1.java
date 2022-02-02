@@ -12,6 +12,8 @@ public class CollectionDemo1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//HashMap mapObj=  new HashMap();
+		int i=10;
+		
 		Map mapObj=  new HashMap();
 		mapObj.put("emp123", "gunja");
 		mapObj.put(1, "gunja gupta");
